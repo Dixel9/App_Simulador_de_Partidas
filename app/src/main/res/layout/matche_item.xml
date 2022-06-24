@@ -22,7 +22,7 @@
             tools:srcCompat="@tools:sample/avatars" />
 
         <androidx.appcompat.widget.AppCompatCheckedTextView
-            android:id="@+id/ivHomeTeamName"
+            android:id="@+id/tvHomeTeamName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_default"
@@ -66,7 +66,7 @@
             tools:srcCompat="@tools:sample/avatars" />
 
         <androidx.appcompat.widget.AppCompatAutoCompleteTextView
-            android:id="@+id/tvivAwayTeamScore"
+            android:id="@+id/tvAwayTeamScore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"

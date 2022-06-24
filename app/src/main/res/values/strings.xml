@@ -4,4 +4,5 @@
     <string name="cd_home_team">Imagem do time mandante.</string>
     <string name="txt_versus" translatable="false">x</string>
     <string name="cd_away_team">Imagem do time visitante.</string>
+    <string name="error_api">Algo deu errado! Verifique a sua conexão com a internet.</string>
 </resources>
