@@ -9,4 +9,4 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
 3. Implementação do retrofit2 e implementação do Recycler view
     - [release/implementação_retrofit2_impementação_reciclerview_implementação_internet_permissions](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/implementacao_retrofit2_impementacao_reciclerview_implementacao_internet_permissions)
 4. Imprementação Glide
-    - []()
+    - [release/implementacao_Glide](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/implementacao_Glide)
