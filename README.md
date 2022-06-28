@@ -7,4 +7,4 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
 2. Componentes, Layouts e UI/UX Em Apps Android
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Implementação do retrofit2 e implementação do Recycler view
-    - [release/implementação_retrofit2_impementação_reciclerview_implementação_internet_permissions](https://github.com/Dixel9/App_Simulador_de_Partidas/blob/release/implementa%C3%A7%C3%A3o_retrofit2_impementa%C3%A7%C3%A3o_reciclerview_implementa%C3%A7%C3%A3o_internet_permissions)
+    - [release/implementação_retrofit2_impementação_reciclerview_implementação_internet_permissions](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/implementacao_retrofit2_impementacao_reciclerview_implementacao_internet_permissions)
