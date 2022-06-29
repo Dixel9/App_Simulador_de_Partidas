@@ -10,3 +10,5 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
     - [release/implementação_retrofit2_impementação_reciclerview_implementação_internet_permissions](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/implementacao_retrofit2_impementacao_reciclerview_implementacao_internet_permissions)
 4. Java e Kotlin Juntos!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase Para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Dixel9/App_Simulador_de_Partidas/tree/release/explorando-o-firebase-para-apps-android-resilientes)
