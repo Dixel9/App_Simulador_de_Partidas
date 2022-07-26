@@ -31,7 +31,8 @@
             android:name=".ui.DetailActivity"
             android:exported="true"
             android:parentActivityName=".ui.MainActivity"
-            android:theme="@style/Theme.Simulador.NoActionBar" >
+            android:theme="@style/Theme.Simulador.NoActionBar"
+            tools:ignore="Instantiatable">
         </activity>
 
     </application>

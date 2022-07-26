@@ -1,7 +1,7 @@
 package me.dio.simulador.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import me.dio.simulador.databinding.ActivityDetailBinding
 import me.dio.simulador.domain.Match
